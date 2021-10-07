@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "rida hasham",
+      "email": "ri@gmail.com"
+    },
+    {
+      "id": 2,
+      "stuname": "iqra khalid",
+      "email": "iq@gmail.com"
+    },
+    {
+      "id": 3,
+      "stuname": "muskan",
+      "email": "mu@gmail.com"
+    }
+  ]
+}
